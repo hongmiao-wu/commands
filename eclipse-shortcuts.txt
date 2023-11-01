@@ -1,0 +1,2 @@
+search file: cmd + 3 
+search class: cmd + shift + H 
